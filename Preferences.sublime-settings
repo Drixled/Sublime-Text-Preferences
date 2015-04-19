@@ -1,0 +1,27 @@
+{
+  "Seti_no_bar_undertabs": true,
+  "Seti_ClosedFolder_same": true,
+  "Seti_sb_tree_med": true,
+  "bold_folder_labels": true,
+  "caret_extra_bottom": 3,
+  "caret_extra_top": 3,
+  "caret_extra_width": 2,
+  "color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+  "font_face": "Input",
+  "font_size": 13,
+  "highlight_line": true,
+  "indent_guide_options": [],
+  "ignored_packages":
+  [
+  "Vintage",
+  "CSS"
+  ],
+  "line_padding_bottom": 1,
+  "overlay_scroll_bars": "enabled",
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+  "word_wrap": true,
+}
